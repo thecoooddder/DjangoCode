@@ -1,2 +1,2 @@
 # DjangoCode
-It is a poll made by use of Django
+It is a code what i made using Django
